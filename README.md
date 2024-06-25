@@ -1,4 +1,6 @@
 # Surge 分流规则
+代码仓库：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/GitHub.list
+
 规则修正：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Direct.list
 
 去除广告：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Advertising.list
@@ -21,6 +23,8 @@ LAN规则：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Lan.lis
 
 
 # QuantumultX 分流规则
+代码仓库：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/GitHub.list
+
 规则修正：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Direct.list
 
 去除广告：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Advertising.list
