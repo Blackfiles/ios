@@ -7,6 +7,8 @@
 
 苹果服务：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Apple.list
 
+代码仓库：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/GitHub.list
+
 人工智能：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/OpenAI.list
 
 音乐世界：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Spotify.list
@@ -32,6 +34,8 @@ LAN规则：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Lan.lis
 去除广告：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Advertising.list
 
 苹果服务：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Apple.list
+
+代码仓库：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/GitHub.list
 
 人工智能：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/OpenAI.list
 
