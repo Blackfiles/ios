@@ -17,6 +17,8 @@
 
 电报信息：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Telegram.list
 
+国际互联：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Global.list
+
 国内直连：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/China.list
 
 LAN规则：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Lan.list
@@ -40,6 +42,8 @@ LAN规则：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/s/Lan.lis
 谷歌服务：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Google.list
 
 电报信息：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Telegram.list
+
+国际互联：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/Global.list
 
 国内直连：https://raw.githubusercontent.com/Blackfiles/ios/main/rule/q/China.list
 
